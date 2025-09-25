@@ -65,7 +65,7 @@ Highlighted financial health indicators like average DTI and interest rates.
 
 Clone the repository:
 
-git clone https://github.com/your-username/finance-loan-analysis.git
+git clone https://github.com/muhammadshammasp/Bank-Loan-Analysis.git
 cd finance-loan-analysis
 
 
